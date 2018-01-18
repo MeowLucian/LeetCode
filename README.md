@@ -8,3 +8,4 @@
 9 | [Palindrome Number](https://leetcode.com/problems/Palindrome-Number/) | [Python](./PythonCode/Palindrome_Number.py) | Easy | |
 13 | [Roman to Integer](https://leetcode.com/problems/Roman-to-Integer/) | [Python](./PythonCode/Roman_to_Integer.py) | Easy | |
 14 | [Longest Common Prefix](https://leetcode.com/problems/Longest-Common-Prefix/) | [Python](./PythonCode/Longest_Common_Prefix.py) | Easy | |
+20 | [Valid Parentheses](https://leetcode.com/problems/Valid-Parentheses/) | [Python](./PythonCode/Valid_Parentheses.py) | Easy | |
